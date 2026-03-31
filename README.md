@@ -40,15 +40,6 @@
 
 <br/>
 
-### 📊 Engineering Metrics
-
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rushi-mujpara&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rushi-mujpara&layout=compact&theme=tokyonight&hide_border=true" />
-</div>
-
-<br/>
-
 ### 🔭 Current Focus
 * Developing master-listener drone swarm architectures via combined computing.
 * Optimizing two-stage object detection pipelines for embedded hardware constraints.
