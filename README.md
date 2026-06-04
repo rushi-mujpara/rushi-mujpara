@@ -41,9 +41,6 @@
 <br/>
 
 ### 🔭 Current Focus
-* Developing master-listener drone swarm architectures via combined computing.
-* Optimizing two-stage object detection pipelines for embedded hardware constraints.
-* Customizing lightweight Linux environments for headless compute modules.
-* Integrating thermal imaging sensors with edge compute modules for real-time analysis and medical Assists.
+* Learn * Explore * Evolve 
 
 ---
