@@ -41,6 +41,6 @@
 <br/>
 
 ### 🔭 Current Focus
-* Learn * Explore * Evolve 
+* Learn - Explore - Evolve 
 
 ---
